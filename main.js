@@ -15,6 +15,6 @@ let object = {};
 let myFunction = () => {
     return;
 } 
-let thatFunction() {
-    return;
-}
+// let thatFunction() {
+//     return;
+// }
